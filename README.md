@@ -3,7 +3,7 @@
 Code to accompany the [course][course], part of
 [PurelyFunctional.tv Online Mentoring][mentoring].
 
-[course]: https://purelyfunctional.tv/
+[course]: https://purelyfunctional.tv/courses/concurrency/
 [mentoring]: https://purelyfunctional.tv/
 
 ## License
